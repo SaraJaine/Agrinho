@@ -49,7 +49,7 @@ window.addEventListener('load', revealOnScroll);
 const images = [
   './img/923178.jpg',
   './img/ História do Trigo.png',
-  './img/cidade.png'
+  './img/armac-colheita-de-trigo-blog.jpg'
 ];
 let currentIndex = 0;
 
