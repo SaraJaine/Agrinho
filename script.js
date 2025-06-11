@@ -48,7 +48,7 @@ window.addEventListener('load', revealOnScroll);
 // Carrossel
 const images = [
   './img/923178.jpg',
-  './img/.png',
+  './img/malte.png',
   './img/cidade.png'
 ];
 let currentIndex = 0;
