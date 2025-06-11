@@ -48,7 +48,7 @@ window.addEventListener('load', revealOnScroll);
 // Carrossel
 const images = [
   './img/923178.jpg',
-  './img/ História do Trigo.png',
+  './img/ https://youtu.be/tNlYGlyndBw?si=WaethNj5iaIKY2Ys.png',
   './img/armac-colheita-de-trigo-blog.jpg'
 ];
 let currentIndex = 0;
