@@ -48,7 +48,7 @@ window.addEventListener('load', revealOnScroll);
 // Carrossel
 const images = [
   './img/923178.jpg',
-  './img/malte.png',
+  './img/https://youtu.be/tNlYGlyndBw?si=UpkWfOz_pm5X72aN.png',
   './img/cidade.png'
 ];
 let currentIndex = 0;
