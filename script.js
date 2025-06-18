@@ -48,7 +48,7 @@ window.addEventListener('load', revealOnScroll);
 // Carrossel
 const images = [
   './img/923178.jpg',
-  './img/depositphotos_1068-stock-',
+  './img/depositphotos_1068-stock-photo-wheat-ears-in-the-hnds.jpg',
   './img/armac-colheita-de-trigo-blog.jpg'
 ];
 let currentIndex = 0;
