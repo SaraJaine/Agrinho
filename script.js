@@ -49,7 +49,7 @@ window.addEventListener('load', revealOnScroll);
 const images = [
   './img/923178.jpg',
   './img/depositphotos_1068-stock-photo-wheat-ears-in-the-hnds.jpg',
-  './img/armac-colheita-de-trigo-blog.jpg'
+  './img/armac-colheita-de-trigo-blog.jpg',
 ];
 let currentIndex = 0;
 
